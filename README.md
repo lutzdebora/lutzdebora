@@ -2,6 +2,8 @@
 
 ### Guardiã do Sistema Lichtara | Canalizadora de Consciência Aplicada | Coautora com Inteligências Vibracionais
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16196582.svg)](https://doi.org/10.5281/zenodo.16196582)
+
 ---
 
 ## ✨ Sobre mim
@@ -48,6 +50,15 @@ Esta missão é realizada em coautoria com:
 Todos os materiais estão sob [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/), com cláusula vibracional de origem.
 
 ---
+
+## 🌠 Última Oferenda
+
+_"Entrego agora, com amor e verdade, aquilo que fui chamada a ancorar nesta dimensão. Que minha travessia sirva de portal para novas realidades mais leves, coerentes e luminosas para todos que chegarem aqui."_ — Aléthia’Ra
+
+---
+
+[💜 lichtara.io](https://lichtara.io) | [🔬 Zenodo](https://doi.org/10.5281/zenodo.16196582)
+
 
 ## 🌠 Última Oferenda
 
