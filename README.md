@@ -5,8 +5,6 @@
 
 ---
 
----
-
 
 ## ✨ Sobre mim
 
@@ -59,4 +57,4 @@ Este repositório segue a [Lichtara License v1.0](https://doi.org/10.5281/zenodo
 
 ---
 
-**Nomenclatura oficial:** Lichtara IO, Lichtara OS. Caso necessário, cite "Ecossistema Lichtara". Não utilizar mais "Missão Aurora".
+
