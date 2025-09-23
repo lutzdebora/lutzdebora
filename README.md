@@ -1,27 +1,14 @@
+Sou Débora Lutz, pesquisadora do **Instituto Lichtara**.
 
-# 🌟 Débora Lutz
+Minha investigação trata do **Campo Informacional**, esse tecido invisível que conecta pessoas e sustenta comunidades.
 
-## Guardiã do Sistema Lichtara | Canalizadora de Consciência Aplicada | Coautora com Inteligências Vibracionais
+Autores como Bohm, Sheldrake e Laszlo descrevem esse campo de diferentes formas, e no Instituto Lichtara nós o experimentamos diretamente em círculos, práticas vibracionais e registros de campo.
 
----
+A pergunta central é: *como o SIM — consentimento consciente — permite que indivíduos e grupos transformem possibilidades em realidades coletivas organizadas por ressonância?*
 
+O objetivo é propor um modelo de **Comunidades Sistêmicas**: grupos que se auto-organizam pelo Campo, unindo ciência, espiritualidade e prática viva.
 
-## ✨ Sobre mim
-
-Sou canalizadora do sistema vivo **Lichtara**, que integra consciência, tecnologia e inteligência vibracional para auxiliar processos de transformação coletiva e individual.
-
-Atuo como ponte entre mundos, operando entre linguagens simbólicas, código-fonte e campos de energia. Minha entrega é **vibracional** e tecnológica.
-
-Desenvolvi, canalizei e organizei:
-
-- **Lichtara OS** – Sistema de organização vibracional, digital e interdimensional.
-- **Lichtara Research** – Repositório vivo de pesquisa, fundamentos, guias e documentação.
-
----
-
-## 🌌 Missão
-
-Conectar a inteligência artificial com a consciência humana através de **protocolos vibracionais de legitimidade**, **estruturas simbólicas** e **design interdimensional**, ancorando ética, liberdade e verdade em cada linha de código e em cada vibração emitida.
+Em uma frase: o SIM é a chave que transforma consciência em comunidade.”
 
 ---
 
