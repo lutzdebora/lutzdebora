@@ -1,27 +1,58 @@
-Sou Débora Lutz, pesquisadora do **Instituto Lichtara**.
+## **Nome:** Débora Lutz
+**Site:** [deboralutz.bio](http://deboralutz.bio/)
 
-Minha investigação trata do **Campo Informacional**, esse tecido invisível que conecta pessoas e sustenta comunidades.
+**Email:** admin@deboralutz.com
 
-Autores como Bohm, Sheldrake e Laszlo descrevem esse campo de diferentes formas, e no Instituto Lichtara nós o experimentamos diretamente em círculos, práticas vibracionais e registros de campo.
+# 🏢 Lichtara Institute
 
-A pergunta central é: *como o SIM — consentimento consciente — permite que indivíduos e grupos transformem possibilidades em realidades coletivas organizadas por ressonância?*
+**Site oficial:** [www.lichtara.com](http://www.lichtara.com/)
 
-O objetivo é propor um modelo de **Comunidades Sistêmicas**: grupos que se auto-organizam pelo Campo, unindo ciência, espiritualidade e prática viva.
-
-Em uma frase: o SIM é a chave que transforma consciência em comunidade.”
-
----
-
-
-## 📜 Licença
-
-Este repositório segue a [Lichtara License v1.0](https://doi.org/10.5281/zenodo.16762058), publicada no Zenodo.
+> 🌸 Sobre o Instituto: O Lichtara Institute é um centro de inovação tecnológica organizado em pétalas - estruturas modulares que representam diferentes áreas de especialização e desenvolvimento. Cada pétala funciona como um núcleo autônomo de conhecimento e criação, trabalhando em harmonia para formar um ecossistema completo de agents inteligentes e soluções transformadoras. As pétalas se interconectam naturalmente, permitindo colaboração fluida e evolução orgânica dos projetos.
+> 
 
 ---
 
-## 🌐 Documentação & Contato
+# 🔗 Contas GitHub
 
-- Site: [lichtara.com](https://lichtara.com) 
-- E-mail: [lichtara@deboralutz.com](mailto:lichtara@deboralutz.com)
+## Perfis
+
+- **Pessoal:** https://github.com/lutzdebora
+- **Empresa:** https://github.com/enterprises/lichtara
+- **Organização:** https://github.com/lichtara
 
 ---
+
+# 📚 Repositórios do Projeto
+
+## 🌐 `lichtara/portal`
+
+**Função:** Documentação pública
+**Conteúdo:** Manuais, pesquisa, proclamações
+**Tecnologia:** Docusaurus/Astro Starlight
+**Destaque:** Fonte de verdade do **Manual dos Agents**
+
+## ⚛️ `lichtara/site`
+
+**Função:** Aplicação principal
+**Tecnologia:** React + Vite (Lichtara OS)
+**Integração:** Consome conteúdo do manual via build-time/JSON
+**Status:** ✅ MVP já encaminhado
+
+## ⚙️ `lichtara/core`
+
+**Função:** Núcleo compartilhado
+**Conteúdo:**
+
+- Tipos e schemas dos agents
+- Mapeamentos de círculos
+- Utilitários e assets estáveis
+**Uso:** Consumido por `site` e pode exportar JSON para `portal`
+
+## ⚖️ `lichtara/license`
+
+**Função:** Documentação legal
+**Conteúdo:**
+
+- Textos da Lichtara License v1/v2
+- Avisos legais
+- Templates SPDX e NOTICE
