@@ -6,6 +6,19 @@
 
 **Email:** [admin@deboralutz.com](mailto:admin@deboralutz.com)
 
+[https://www.researchgate.net/Debora-Lutz](https://www.researchgate.net/profile/Debora-Lutz)
+
+https://orcid.org/0009-0001-9541-1835 
+
+
+lichtara@deboralutz.com
+https://www.linkedin.com/in/debora-lutz
+
+portal.lichtara.com
+core.lichtara.com
+institute.lichtara.com
+license.lichtara.com
+
 > 🌟 **Bio:** Desenvolvedora e visionária por trás do Lichtara Institute, trabalho na criação de sistemas e agents inteligentes que promovem evolução tecnológica e organizacional. Especialista em arquitetura de software e metodologias inovadoras para o desenvolvimento de tecnologias transformadoras.
 > 
 
