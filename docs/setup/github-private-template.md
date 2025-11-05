@@ -82,6 +82,8 @@ cd .github-private
 
 O GitHub não possui um template oficial específico para `.github-private`, mas você pode usar a estrutura recomendada.
 
+> **Nota:** Sempre verifique a [documentação oficial do GitHub](https://docs.github.com/en/enterprise-cloud@latest/admin/managing-github-actions-for-your-enterprise/managing-github-actions-for-your-enterprise/about-using-actions-in-your-enterprise#about-the-github-private-repository) para informações atualizadas sobre templates e configurações recomendadas.
+
 ---
 
 ## 📁 Estrutura Básica Recomendada

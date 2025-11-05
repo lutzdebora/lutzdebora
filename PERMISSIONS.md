@@ -323,7 +323,7 @@ Todas as permissões e acessos devem respeitar os termos da **Lichtara License v
 
 - **Administração geral:** lichtara@deboralutz.com
 - **Solicitações de acesso:** admin@deboralutz.com
-- **Incidentes de segurança:** security@lichtara.com (futuro)
+- **Incidentes de segurança:** security@deboralutz.com
 
 ---
 
