@@ -1,0 +1,135 @@
+/* PALETA CLARA, EDITORIAL */
+:root {
+    --azul-profundo: #142A3F;
+    --cinza-perolado: #C8D2DF;
+    --branco-tecnico: #F7F9FB;
+    --dourado-suave: #D8B980;
+
+    --font: 'Inter', sans-serif;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: var(--branco-tecnico);
+    font-family: var(--font);
+    color: var(--azul-profundo);
+    line-height: 1.6;
+}
+
+.container {
+    width: min(900px, 90%);
+    margin: 0 auto;
+    padding: 40px 0;
+}
+
+/* HEADER */
+.header {
+    padding: 60px 0 20px;
+    border-bottom: 1px solid var(--cinza-perolado);
+}
+
+.name {
+    font-size: 2.8rem;
+    font-weight: 600;
+}
+
+.role {
+    color: var(--azul-profundo);
+    opacity: 0.7;
+    margin-top: 8px;
+}
+
+/* ABOUT */
+.about {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 40px;
+    align-items: center;
+}
+
+.photo {
+    width: 220px;
+    height: 220px;
+    border-radius: 8px;
+    background: var(--cinza-perolado);
+    background-size: cover;
+    background-position: center;
+}
+
+.photo {
+    background-image: url('./assets/profile.jpg');
+}
+
+.about .text {
+    flex: 1;
+}
+
+.about h2 {
+    font-size: 1.8rem;
+    margin-bottom: 15px;
+}
+
+/* SECTIONS */
+section h2 {
+    margin-bottom: 20px;
+    font-size: 1.7rem;
+    border-left: 4px solid var(--dourado-suave);
+    padding-left: 10px;
+}
+
+.list {
+    list-style: none;
+}
+
+.list li {
+    margin-bottom: 10px;
+    padding-left: 18px;
+    position: relative;
+}
+
+.list li::before {
+    content: "";
+    width: 6px;
+    height: 6px;
+    background: var(--dourado-suave);
+    border-radius: 50%;
+    position: absolute;
+    left: 0;
+    top: 9px;
+}
+
+/* CONTACT */
+.contact .email {
+    font-weight: 600;
+}
+
+.social {
+    margin-top: 10px;
+    display: flex;
+    gap: 20px;
+}
+
+.social a {
+    text-decoration: none;
+    color: var(--azul-profundo);
+    font-weight: 500;
+    border-bottom: 1px solid transparent;
+    transition: 0.2s;
+}
+
+.social a:hover {
+    border-bottom: 1px solid var(--dourado-suave);
+}
+
+/* FOOTER */
+.footer {
+    text-align: center;
+    padding: 40px 0 20px;
+    border-top: 1px solid var(--cinza-perolado);
+    opacity: 0.7;
+}
