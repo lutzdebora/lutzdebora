@@ -32,22 +32,6 @@ O que faço
 - Pesquisa aplicada na interseção entre tecnologia, organização e comportamento  
 - Mentoria e consultoria para produtos transformadores e times em evolução
 
-Links e contatos
-- Site: http://deboralutz.bio  
-- Email (geral): admin@deboralutz.com  
-- Email (Lichtara): lichtara@deboralutz.com  
-- ResearchGate: https://www.researchgate.net/profile/Debora-Lutz  
-- ORCID: https://orcid.org/0009-0001-9541-1835  
-- LinkedIn: https://www.linkedin.com/in/debora-lutz  
-- Portais Lichtara:
-  - https://portal.lichtara.com
-  - https://core.lichtara.com
-  - https://institute.lichtara.com
-  - https://license.lichtara.com
-- GitHub (Lichtara): https://github.com/lichtara
-
-Preferência de contato: email para consultas e parcerias; LinkedIn para conexões profissionais.
-
 Colaborações e contribuições
 Se você tem um projeto, pesquisa ou ideia alinhada com tecnologia consciente, agentes inteligentes ou transformação organizacional, vamos conversar. Posso colaborar em pesquisa aplicada, arquitetura técnica, mentoring de times e co-criação de agentes.
 
@@ -71,22 +55,6 @@ What I do
 - Agent design and implementation (APIs, conversational flows, integrations)  
 - Applied research at the intersection of technology, organization, and behavior  
 - Mentoring and consulting for transformative products and evolving teams
-
-Links & contacts
-- Website: http://deboralutz.bio  
-- Email (general): admin@deboralutz.com  
-- Email (Lichtara): lichtara@deboralutz.com  
-- ResearchGate: https://www.researchgate.net/profile/Debora-Lutz  
-- ORCID: https://orcid.org/0009-0001-9541-1835  
-- LinkedIn: https://www.linkedin.com/in/debora-lutz  
-- Lichtara portals:
-  - https://portal.lichtara.com
-  - https://core.lichtara.com
-  - https://institute.lichtara.com
-  - https://license.lichtara.com
-- GitHub (Lichtara): https://github.com/lichtara
-
-Preferred contact: email for inquiries and partnerships; LinkedIn for professional connections.
 
 ---
 
